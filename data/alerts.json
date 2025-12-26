@@ -1,0 +1,8 @@
+[
+  {
+    "coin": "bitcoin",
+    "target_price": 70000,
+    "condition": "above",
+    "triggered": false
+  }
+]
